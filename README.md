@@ -38,6 +38,9 @@ Der DS18B20 nutzt das **OneWire-Protokoll**. Daher werden alle Daten über eine 
 
 > ⚠️ **Wichtig beim TO-92 Gehäuse:** Wenn du von vorne auf die flache beschriftete Seite schaust, ist **Pin 1 links (GND)**, **Pin 2 Mitte (DATA)**, **Pin 3 rechts (VCC)**.
 
+
+![Systemaufbau](https://github.com/Michdo93/ESP32-Windowpane-Temperature-Monitor/blob/main/window_pane_temperature_measurement.jpeg?raw=true)
+
 ---
 
 ## 🪟 Richtige Montage an der Fensterscheibe
