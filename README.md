@@ -40,6 +40,7 @@ Der DS18B20 nutzt das **OneWire-Protokoll**. Daher werden alle Daten über eine 
 
 
 ![Systemaufbau](https://github.com/Michdo93/ESP32-Windowpane-Temperature-Monitor/blob/main/window_pane_temperature_measurement.jpeg?raw=true)
+![Systemaufbau](https://github.com/Michdo93/ESP32-Windowpane-Temperature-Monitor/blob/main/window_pane_temperature_measurement2.jpeg?raw=true)
 
 ---
 
